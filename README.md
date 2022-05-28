@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Quarkus Framework and how to deal with CI CD pipeline to 3 different platforms
 - Here's the programming languages I used, from Sept 2021:
     
-![https://wakatime.com/](https://wakatime.com/share/@b61f4deb-4007-42f5-86e1-f169b4d3cbee/f28aced3-dbbe-4e92-b4f4-8763cb7e2a98.png)
+![this is a png image](https://wakatime.com/share/@b61f4deb-4007-42f5-86e1-f169b4d3cbee/2874b93c-3bfd-4f45-ac1e-517781fb4e52.png)
