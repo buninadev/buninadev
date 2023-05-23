@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on NextJs App with tailwindcss and mongoDB for storage
+- 🔭 I’m currently working on a NextJs App with mongoDB for storage
 - 🌱 I’m currently learning Quarkus Framework(Java) and how to deal with CI CD pipeline to 3 different platforms (Web , iOS, Android)
 - Here's the programming languages I used, since Sept 2021:
     
