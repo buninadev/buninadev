@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a NextJs App with mongoDB for storage
-- 🌱 I’m currently learning Quarkus Framework(Java) and how to deal with CI CD pipeline to 3 different platforms (Web , iOS, Android)
-- Here's the programming languages I used, since Sept 2021:
+- 🔭 I’m currently working on ETL pipelines, and high availability applications.
+- 🌱 I’m currently learning Kubernetes and automation pipelines.
+- Here's the programming languages I used, Last year:
     
 ![Coding language stats](https://wakatime.com/share/@b61f4deb-4007-42f5-86e1-f169b4d3cbee/7aaa5746-3ee7-4bab-95da-a2d92c8774fb.png)
